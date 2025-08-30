@@ -44,7 +44,5 @@
 // })
 // console.log(sum)
 
-function(a,b,c,d){
 
-}
 
