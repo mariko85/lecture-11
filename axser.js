@@ -199,3 +199,4 @@ let arr = [];
 // let arr =[1,2,3] 
 // let m=arr.reduce((prev,curent)=> prev+curent ,0)
 // console.log(m)
+
